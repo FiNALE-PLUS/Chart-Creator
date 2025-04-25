@@ -1,0 +1,22 @@
+{
+  "name": "finale-plus-chart-creator",
+  "version": "1.0.0",
+  "description": "A chart creation tool for FiNALE PLUS",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/FiNALE-PLUS/Chart-Creator",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "FiNALE PLUS Team",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "electron": "^35.2.1"
+  }
+}
